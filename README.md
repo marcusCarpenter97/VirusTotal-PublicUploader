@@ -3,3 +3,5 @@
 + The files that will be submited to VirusTotal should be placed in a folder called 'target'.
 + The 'results' folder needs to be manually created.
 + All of these should be in the same directory as the 'api_v3.py' script, but you can modify these locations in the code by editing the global variables.
+
+Documentation for the VirusTotal module used can be found here: https://github.com/tr4cefl0w/virustotal3
