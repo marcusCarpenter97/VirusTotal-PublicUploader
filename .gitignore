@@ -1,1 +1,6 @@
 API-key.txt
+*.swp
+analysis-ids.txt
+results/
+target/
+__pycache__/
