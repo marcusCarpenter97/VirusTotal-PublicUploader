@@ -2,8 +2,6 @@
 """ Simple script to interract with VirusTotal Public APIv3. """
 
 import json
-import pprint
-import requests
 import virustotal3.core as vt
 import virustotal3.errors
 from time import sleep
