@@ -1,6 +1,8 @@
 API-key.txt
 *.swp
-analysis-ids.txt
-results/
-target/
+*.csv
+*.log
 __pycache__/
+analyses/
+samples/
+vt-vevn/
